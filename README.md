@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+
+Check out the project here [Combazo Youtube](https://combazoyoutube.netlify.app/)
 
 ## Available Scripts
 
